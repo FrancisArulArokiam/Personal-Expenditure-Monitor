@@ -180,10 +180,6 @@ def show_frame(frame):
     elif (frame == frame3):
         frames(frame3)
 
-    # for loop getting delayed
-    # for frame in (frame1,frame2,frame3):
-    #     frames(frame)
-
 
 def todaydate():
     tp1 = time.localtime()
